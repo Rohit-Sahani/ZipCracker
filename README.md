@@ -12,3 +12,5 @@ Feedback on Progress: ZIPCracker provides feedback on the progress of the passwo
 Navigate to the Project Directory: Move to the ZIPCracker project directory : "cd zipcracker".
 
 And your zip file which you want to crack and your password list file should be inside the same directory.
+
+# Video for better example
