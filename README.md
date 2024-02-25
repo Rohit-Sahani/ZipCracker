@@ -13,4 +13,5 @@ Navigate to the Project Directory: Move to the ZIPCracker project directory : "c
 
 And your zip file which you want to crack and your password list file should be inside the same directory.
 
-# Video for better example
+# Screenshot
+![Screenshot from 2024-02-25 11-01-11](https://github.com/Rohit-Sahani/ZipCracker/assets/136573543/c4bde107-e284-4081-811e-c058322a486a)
